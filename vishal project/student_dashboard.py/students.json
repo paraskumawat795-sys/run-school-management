@@ -1,0 +1,56 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Alice Johnson",
+    "attendance": 92.0,
+    "subjects": [
+      {"subject_name": "Mathematics", "marks_obtained": 88, "max_marks": 100},
+      {"subject_name": "Science",     "marks_obtained": 91, "max_marks": 100},
+      {"subject_name": "English",     "marks_obtained": 85, "max_marks": 100},
+      {"subject_name": "History",     "marks_obtained": 79, "max_marks": 100}
+    ]
+  },
+  {
+    "student_id": "S002",
+    "name": "Bob Martinez",
+    "attendance": 68.0,
+    "subjects": [
+      {"subject_name": "Mathematics", "marks_obtained": 45, "max_marks": 100},
+      {"subject_name": "Science",     "marks_obtained": 52, "max_marks": 100},
+      {"subject_name": "English",     "marks_obtained": 40, "max_marks": 100},
+      {"subject_name": "History",     "marks_obtained": 38, "max_marks": 100}
+    ]
+  },
+  {
+    "student_id": "S003",
+    "name": "Carol Patel",
+    "attendance": 85.0,
+    "subjects": [
+      {"subject_name": "Mathematics", "marks_obtained": 72, "max_marks": 100},
+      {"subject_name": "Science",     "marks_obtained": 68, "max_marks": 100},
+      {"subject_name": "English",     "marks_obtained": 75, "max_marks": 100},
+      {"subject_name": "History",     "marks_obtained": 80, "max_marks": 100}
+    ]
+  },
+  {
+    "student_id": "S004",
+    "name": "David Chen",
+    "attendance": 55.0,
+    "subjects": [
+      {"subject_name": "Mathematics", "marks_obtained": 30, "max_marks": 100},
+      {"subject_name": "Science",     "marks_obtained": 28, "max_marks": 100},
+      {"subject_name": "English",     "marks_obtained": 35, "max_marks": 100}
+    ]
+  },
+  {
+    "student_id": "S005",
+    "name": "Eva Williams",
+    "attendance": 98.0,
+    "subjects": [
+      {"subject_name": "Mathematics", "marks_obtained": 96, "max_marks": 100},
+      {"subject_name": "Science",     "marks_obtained": 94, "max_marks": 100},
+      {"subject_name": "English",     "marks_obtained": 98, "max_marks": 100},
+      {"subject_name": "History",     "marks_obtained": 92, "max_marks": 100}
+    ]
+  }
+]
